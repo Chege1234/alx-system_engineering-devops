@@ -15,3 +15,4 @@ script 13 creates a symbolic link
 script 14 copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 script 15 moves all files beginnig with a capital letter into another directory
 script 16 deletes all files in the current working directory that end with ~
+script 17 creates multiple directories in another directory
