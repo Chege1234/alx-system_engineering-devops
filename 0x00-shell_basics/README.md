@@ -5,4 +5,4 @@ script 3 displays current directory contents in long format
 script 4 displays current directory contents, including hidden files using the long format
 script 5 displays current directory content 
 script 6 creates a directory in another directory
-
+script 7 moves a file from a directory to another directory
