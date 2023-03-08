@@ -8,3 +8,4 @@ script 6 creates a directory in another directory
 script 7 moves a file from a directory to another directory
 script 8 deletes a file in a directory
 script 9 deletes a directory inside another directory
+script 10 changes the current directory to the previous one
