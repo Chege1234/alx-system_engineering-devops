@@ -6,3 +6,4 @@ script 4 displays current directory contents, including hidden files using the l
 script 5 displays current directory content 
 script 6 creates a directory in another directory
 script 7 moves a file from a directory to another directory
+script 8 deletes a file in a directory
