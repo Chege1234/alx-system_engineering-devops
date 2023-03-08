@@ -12,3 +12,4 @@ script 10 changes the current directory to the previous one
 script 11 lists all files in the current directory and the parent of the working directory and the boot directory in this order in long format
 script 12 prints the type of file in a directory
 script 13 creates a symbolic link
+script 14 copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
