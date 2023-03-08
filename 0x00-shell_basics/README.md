@@ -10,3 +10,4 @@ script 8 deletes a file in a directory
 script 9 deletes a directory inside another directory
 script 10 changes the current directory to the previous one
 script 11 lists all files in the current directory and the parent of the working directory and the boot directory in this order in long format
+script 12 prints the type of file in a directory
