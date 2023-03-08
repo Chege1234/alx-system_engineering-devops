@@ -17,3 +17,4 @@ script 15 moves all files beginnig with a capital letter into another directory
 script 16 deletes all files in the current working directory that end with ~
 script 17 creates multiple directories in another directory
 script 18 lists all the files and directories of the current directory seperated by commas
+script 19 has a magic file that can be used within the command to detect other files 
