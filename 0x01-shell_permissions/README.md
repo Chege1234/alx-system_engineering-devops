@@ -8,3 +8,4 @@ script 6 adds execute permission to the owner and the group owner, and read perm
 script 7 adds execution permission to the owner, the group owner and the other users, to a file
 script 8 sets the permission of the owner and group to no permissions at all and gives others all permissions
 script 9 sets the mode of a file
+script 10 changes the mode of a file to a simmilar file
