@@ -9,3 +9,4 @@ script 7 adds execution permission to the owner, the group owner and the other u
 script 8 sets the permission of the owner and group to no permissions at all and gives others all permissions
 script 9 sets the mode of a file
 script 10 changes the mode of a file to a simmilar file
+script 11  adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
