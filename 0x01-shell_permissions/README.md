@@ -10,3 +10,4 @@ script 8 sets the permission of the owner and group to no permissions at all and
 script 9 sets the mode of a file
 script 10 changes the mode of a file to a simmilar file
 script 11  adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+script 12 creates a directory with 751 permissions
