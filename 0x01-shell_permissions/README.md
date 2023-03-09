@@ -14,5 +14,5 @@ script 12 creates a directory with 751 permissions
 script 13 changes the group owner
 script 14 changes the owner and group for all the files and directories in the working directory
 script 15 changes the owner of a group file
-script 16 changes the owner of a file but only if it is owned by a certain specific user 
+script 16 changes the owner of a file but only if it is owned by a certain specific user
 script 17 will play the StarWars IV episode in the terminal
