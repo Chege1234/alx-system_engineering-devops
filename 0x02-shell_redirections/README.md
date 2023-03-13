@@ -5,3 +5,4 @@ script 3 displays the content of two files
 script 4 displays the last 10 lines of a file
 script 5 displays the first 10 lines of a file
 script 6 displays the third line of a file
+script 7 creates a file whose name has special characters and it has content inside.
