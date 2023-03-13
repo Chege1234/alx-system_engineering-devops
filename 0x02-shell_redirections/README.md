@@ -12,3 +12,4 @@ script 10 deletes all regular files with a \\.js extension
 script 11 counts the number of directories and sub-directories in the current directory
 script 12 displays 10 newest files in the current directory
 script 13 takes a list of words as input and prints only words that appear exactly once
+script 14 Display lines containing the pattern “root” from a file
