@@ -8,7 +8,7 @@ script 6 displays the third line of a file
 script 7 creates a file whose name has special characters and it has content inside.
 script 8 displays the output in a file
 script 9 duplicates the last line of a file
-script 10 deletes all regular files with a \\.js extension
+script 10 deletes all regular files with a .js extension
 script 11 counts the number of directories and sub-directories in the current directory
 script 12 displays 10 newest files in the current directory
 script 13 takes a list of words as input and prints only words that appear exactly once
@@ -22,3 +22,4 @@ script 20  removes all letters c and C from input
 script 21 reverses its input
 script 22 displays all users and their home directories, sorted by users
 script 23 finds all empty files and directories in the current directory and all sub-directories
+script 24 lists all the files with a .gif extension in the current directory and all its sub-directories.
