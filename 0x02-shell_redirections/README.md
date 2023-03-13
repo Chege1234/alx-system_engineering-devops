@@ -7,3 +7,5 @@ script 5 displays the first 10 lines of a file
 script 6 displays the third line of a file
 script 7 creates a file whose name has special characters and it has content inside.
 script 8 displays the output in a file
+script 9 duplicates the last line of a file
+
