@@ -10,3 +10,4 @@ script 8 displays the output in a file
 script 9 duplicates the last line of a file
 script 10 deletes all regular files with a \\.js extension
 script 11 counts the number of directories and sub-directories in the current directory
+script 12 displays 10 newest files in the current directory
