@@ -20,3 +20,4 @@ script 18 displays all lines of a file starting with a letter
 script 19 Replace all characters A and c from input to Z and e respectively
 script 20  removes all letters c and C from input
 script 21 reverses its input
+script 22 displays all users and their home directories, sorted by users
