@@ -17,3 +17,4 @@ script 15 Display the number of lines that contain the pattern “bin” in a fi
 script 16 displays lines containing the pattern root and 3 lines after them
 script 17 displays all lines in afile that do not contain a certain pattern
 script 18 displays all lines of a file starting with a letter
+script 19 Replace all characters A and c from input to Z and e respectively
