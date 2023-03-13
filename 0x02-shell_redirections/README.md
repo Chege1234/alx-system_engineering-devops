@@ -19,3 +19,4 @@ script 17 displays all lines in afile that do not contain a certain pattern
 script 18 displays all lines of a file starting with a letter
 script 19 Replace all characters A and c from input to Z and e respectively
 script 20  removes all letters c and C from input
+script 21 reverses its input
