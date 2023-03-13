@@ -16,3 +16,4 @@ script 14 Display lines containing the pattern “root” from a file
 script 15 Display the number of lines that contain the pattern “bin” in a file
 script 16 displays lines containing the pattern root and 3 lines after them
 script 17 displays all lines in afile that do not contain a certain pattern
+script 18 displays all lines of a file starting with a letter
